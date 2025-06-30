@@ -3,43 +3,13 @@ import { Briefcase, Calendar, MapPin, TrendingUp, Users, BarChart3 } from 'lucid
 
 const Experience = () => {
   const experiences = [
+    
+
     {
-      title: 'Data Analyst',
-      company: 'Tech Solutions Inc.',
-      location: 'Hyderabad, India',
-      period: '2022 - Present',
-      type: 'Full-time',
-      description: 'Leading data analysis initiatives and developing comprehensive business intelligence solutions.',
-      achievements: [
-        'Improved business efficiency by 25% through automated reporting systems',
-        'Developed predictive models that increased forecast accuracy by 30%',
-        'Created interactive dashboards serving 50+ stakeholders across departments',
-        'Led cross-functional teams in implementing data-driven decision making processes'
-      ],
-      technologies: ['Python', 'SQL', 'Power BI', 'Excel', 'Azure'],
-      color: 'blue'
-    },
-    {
-      title: 'Junior Data Analyst',
-      company: 'Analytics Corp',
-      location: 'Hyderabad, India',
-      period: '2021 - 2022',
-      type: 'Full-time',
-      description: 'Focused on data extraction, cleaning, and visualization to support business operations.',
-      achievements: [
-        'Processed and analyzed datasets containing 1M+ records',
-        'Reduced manual reporting time by 40% through automation',
-        'Collaborated with marketing team to optimize campaign performance',
-        'Maintained data quality standards across multiple data sources'
-      ],
-      technologies: ['SQL', 'Excel', 'Tableau', 'Python', 'SPSS'],
-      color: 'purple'
-    },
-    {
-      title: 'Data Analytics Intern',
-      company: 'StartupXYZ',
-      location: 'Remote',
-      period: '2021 (6 months)',
+      title: 'Intern',
+      company: 'infosys',
+      location: 'vijayawada',
+      period: '6 months',
       type: 'Internship',
       description: 'Gained hands-on experience in data analysis and business intelligence tools.',
       achievements: [
