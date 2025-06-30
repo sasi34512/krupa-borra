@@ -72,22 +72,7 @@ const Education = () => {
       color: 'blue',
       level: 'Professional'
     },
-    {
-      name: 'Google Data Analytics Professional Certificate',
-      issuer: 'Google (Coursera)',
-      date: '2022',
-      skills: ['Data Analysis', 'R Programming', 'Tableau', 'SQL'],
-      color: 'green',
-      level: 'Professional'
-    },
-    {
-      name: 'Python for Data Science',
-      issuer: 'IBM (Coursera)',
-      date: '2022',
-      skills: ['Python', 'Pandas', 'NumPy', 'Matplotlib'],
-      color: 'purple',
-      level: 'Intermediate'
-    },
+    
     {
       name: 'Advanced Excel for Business',
       issuer: 'Microsoft',
