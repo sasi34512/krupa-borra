@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: 'Sales Performance Dashboard',
       description: 'Comprehensive Power BI dashboard analyzing sales performance across multiple regions and product categories. Features real-time data updates and predictive analytics.',
-      technologies: ['Power BI', 'SQL', 'Python', 'Excel'],
+      technologies: ['Power BI', 'SQL', 'Excel'],
       type: 'Business Intelligence',
       icon: BarChart3,
       color: 'blue',
