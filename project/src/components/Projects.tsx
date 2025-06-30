@@ -11,7 +11,7 @@ const Projects = () => {
       icon: BarChart3,
       color: 'blue',
       insights: ['Increased sales visibility by 40%', 'Identified top-performing regions', 'Reduced reporting time by 60%'],
-      metrics: { impact: '40%', timeline: '3 months', stakeholders: '25+' },
+      metrics: { impact: '40%', stakeholders: '25+' },
       github: '#',
       demo: '#'
     }
