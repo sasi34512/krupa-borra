@@ -14,67 +14,8 @@ const Projects = () => {
       metrics: { impact: '40%', timeline: '3 months', stakeholders: '25+' },
       github: '#',
       demo: '#'
-    },
-    {
-      title: 'Customer Segmentation Analysis',
-      description: 'Advanced customer segmentation using machine learning algorithms to identify distinct customer groups and optimize marketing strategies.',
-      technologies: ['Python', 'Scikit-learn', 'Pandas', 'Matplotlib'],
-      type: 'Machine Learning',
-      icon: Users,
-      color: 'purple',
-      insights: ['Identified 5 distinct customer segments', 'Improved targeting accuracy by 35%', 'Increased customer retention by 20%'],
-      metrics: { impact: '35%', timeline: '2 months', stakeholders: '15+' },
-      github: '#',
-      demo: '#'
-    },
-    {
-      title: 'Financial Forecasting Model',
-      description: 'Predictive model for quarterly revenue forecasting using time series analysis and regression techniques to support strategic planning.',
-      technologies: ['Python', 'Pandas', 'Statsmodels', 'Plotly'],
-      type: 'Predictive Analytics',
-      icon: TrendingUp,
-      color: 'green',
-      insights: ['Achieved 92% forecast accuracy', 'Reduced planning uncertainty', 'Enabled proactive decision making'],
-      metrics: { impact: '92%', timeline: '4 months', stakeholders: '10+' },
-      github: '#',
-      demo: '#'
-    },
-    {
-      title: 'E-commerce Analytics Platform',
-      description: 'End-to-end analytics solution for e-commerce business including customer behavior analysis, product performance tracking, and conversion optimization.',
-      technologies: ['SQL', 'Tableau', 'Google Analytics', 'Python'],
-      type: 'Web Analytics',
-      icon: ShoppingCart,
-      color: 'orange',
-      insights: ['Optimized conversion funnel', 'Identified high-value customers', 'Improved product recommendations'],
-      metrics: { impact: '28%', timeline: '5 months', stakeholders: '20+' },
-      github: '#',
-      demo: '#'
-    },
-    {
-      title: 'HR Analytics Dashboard',
-      description: 'Comprehensive HR analytics solution tracking employee performance, retention rates, and recruitment metrics to optimize human resource strategies.',
-      technologies: ['Power BI', 'SQL Server', 'Excel', 'Python'],
-      type: 'HR Analytics',
-      icon: Database,
-      color: 'pink',
-      insights: ['Reduced employee turnover by 15%', 'Optimized recruitment process', 'Improved performance tracking'],
-      metrics: { impact: '15%', timeline: '3 months', stakeholders: '12+' },
-      github: '#',
-      demo: '#'
-    },
-    {
-      title: 'Market Research Analysis',
-      description: 'Comprehensive market analysis using statistical methods to identify market trends, competitor analysis, and growth opportunities.',
-      technologies: ['R', 'SPSS', 'Excel', 'Tableau'],
-      type: 'Market Research',
-      icon: PieChart,
-      color: 'indigo',
-      insights: ['Identified new market opportunities', 'Analyzed competitor strategies', 'Provided strategic recommendations'],
-      metrics: { impact: '30%', timeline: '6 months', stakeholders: '8+' },
-      github: '#',
-      demo: '#'
     }
+    
   ];
 
   const getColorClasses = (color: string) => {
