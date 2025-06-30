@@ -31,7 +31,7 @@ const About = () => {
             
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                With over 2 years of experience in data analysis and business intelligence, 
+                 
                 I specialize in extracting meaningful insights from complex datasets to drive 
                 strategic business decisions.
               </p>
