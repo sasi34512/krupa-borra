@@ -7,7 +7,7 @@ const Skills = () => {
     { name: 'SQL', level: 85, icon: Database, color: 'green', description: 'Database querying, optimization, data extraction' },
     { name: 'Power BI', level: 88, icon: BarChart3, color: 'orange', description: 'Interactive dashboards, data visualization' },
     { name: 'Excel/VBA', level: 92, icon: FileSpreadsheet, color: 'emerald', description: 'Advanced formulas, macros, pivot tables' },
-    { name: 'Tableau', level: 80, icon: PieChart, color: 'purple', description: 'Data visualization, storytelling' },
+    { name: 'ETL', level: 80, icon: PieChart, color: 'purple', description: 'Data cleaning, storytelling' },
     { name: 'Statistics', level: 85, icon: Calculator, color: 'pink', description: 'Statistical analysis, hypothesis testing' },
   ];
 
@@ -23,12 +23,7 @@ const Skills = () => {
   ];
 
   const tools = [
-    'Pandas & NumPy',
-    'Matplotlib & Seaborn',
-    'Jupyter Notebooks',
-    'Google Analytics',
-    'SPSS',
-    'Git & GitHub',
+    
     'MySQL & PostgreSQL',
     'Azure Data Factory',
   ];
