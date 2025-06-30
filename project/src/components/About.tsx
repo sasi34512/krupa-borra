@@ -96,7 +96,7 @@ const About = () => {
                   <h4 className="text-lg font-semibold text-gray-900">Programming</h4>
                 </div>
                 <p className="text-gray-600 text-sm">
-                  Proficient in Python, R, SQL, and various data analysis tools and frameworks.
+                  Proficient in SQL, and various data analysis tools and frameworks.
                 </p>
               </div>
 
