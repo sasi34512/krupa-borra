@@ -115,7 +115,7 @@ const Hero = () => {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-12">
             <div className="bg-white/10 backdrop-blur-lg p-6 rounded-2xl border border-white/20 hover:bg-white/15 transition-all duration-300 transform hover:scale-105">
-              <div className="text-3xl font-bold text-blue-400 mb-2">2+</div>
+              <div className="text-3xl font-bold text-blue-400 mb-2">Fresher</div>
               <div className="text-gray-300">Years Experience</div>
             </div>
             <div className="bg-white/10 backdrop-blur-lg p-6 rounded-2xl border border-white/20 hover:bg-white/15 transition-all duration-300 transform hover:scale-105">
