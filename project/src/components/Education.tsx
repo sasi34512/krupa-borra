@@ -67,7 +67,7 @@ const Education = () => {
     {
       name: 'Microsoft Power BI Data Analyst',
       issuer: 'Microsoft',
-      date: '2023',
+      
       skills: ['Power BI', 'DAX', 'Data Modeling', 'Visualization'],
       color: 'blue',
       level: 'Professional'
@@ -76,7 +76,7 @@ const Education = () => {
     {
       name: 'Advanced Excel for Business',
       issuer: 'Microsoft',
-      date: '2021',
+      
       skills: ['Advanced Excel', 'VBA', 'Pivot Tables', 'Data Analysis'],
       color: 'orange',
       level: 'Advanced'
