@@ -52,7 +52,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/krupa-borra-63273a257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHfsex%2FcMRZaDRNti65imog%3D%3D',
+      href: 'https://www.linkedin.com/in/krupa-borra?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsKstARzHQeCzEVQxmZnV4w%3D%3D',
       color: 'blue'
     },
     {
